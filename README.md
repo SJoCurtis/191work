@@ -7,9 +7,9 @@ To be honest, this week has been wild. Full of self doubt and uncertainty, but a
 - Time management. My spirit animal is the sloth, I'm literally slow at everything. I always feel real zenned and chilled out so I wait forever to do anything pressing. Thus Im always scrambling at the last moment. _Chill_.
 
 ## Successes I've Had
-- Not combusting. Ive been known to sort of implode when Im stressed. Never externally, I just sort of sit there internally screaming. Has yet to happen, ~~but it will.~~
+- Not combusting. I've been known to sort of implode when I'm stressed. Never externally, I just sort of sit there internally screaming. Has yet to happen, ~~but it will.~~
 - Not entirely failing at everything and giving up because I suck.
-- Haven't set laptop on fire yet.... Ive thought about it. Ive resisted the urge.
+- Haven't set laptop on fire yet.... I've thought about it. I've resisted the urge.
 
 ### Things I've "Learned"
 ```
@@ -20,4 +20,7 @@ touch to create a new file
 ```
 1. Ive also learned what terminal itself is capable of.
 2. Also how to access all the hidden files on my computer.
-..* I highly recommend leaving these mostly alone.
+- I highly recommend leaving these mostly alone.
+
+## The Required Link to Another Site
+I didn't know what to do,[so I put the link to an article discussing absurdism in post-modern art.](https://www.inquiriesjournal.com/articles/36/absurdism-in-post-modern-art-examining-the-interplay-between-waiting-for-godot-and-extremely-loud-and-incredibly-close) Im an absurdist, so why the heck not. Everyone can enjoy. 
