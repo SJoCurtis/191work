@@ -24,4 +24,4 @@ touch to create a new file
 
 ## The Required Link to Another Site
 I didn't know what to do,[so I put the link to an article discussing absurdism in post-modern art.](https://www.inquiriesjournal.com/articles/36/absurdism-in-post-modern-art-examining-the-interplay-between-waiting-for-godot-and-extremely-loud-and-incredibly-close) I'm an absurdist, so why the heck not. Everyone can enjoy.
-! [Image of my editor](Screen Shot 2017-02...6.11pm)
+![Image of my editor](Screen Shot 2017-02-05 at 11.36.11 PM).
