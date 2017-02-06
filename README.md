@@ -1,2 +1,2 @@
-# 191work
-Repository for 191 classwork
+#Report For Week Two Homework
+To be honest, this week has been wild. Full of self doubt and uncertainty, but also a sincere intrigue with all the content we have been discussing. I have been wildly confused, as well as wildly curious. At times I have felt very confident, and at others I have felt myself sinking into the pit of confusion induced apathy. Only to return a moment later as sure of what I'm doing as ever. Good times.
