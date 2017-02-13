@@ -15,4 +15,4 @@ My homework should be located at the following URL:
 https://sjocurtis.github.io/191work/HW-3
 
 #Final Product
-![Screen Shot](Screen Shot 2017-02-13.png .png )
+![Screen Shot](ScreenShot.png)
