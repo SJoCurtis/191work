@@ -10,4 +10,4 @@ Ill be honest,I have no idea what I'm doing. I'm feeling quite lost and confused
 - The videos provided.
 - Looking at others sketch.js
  I struggled with this which makes me _discouraged_, I just need to invest some more time into coding extra and hopefully Ill be on track again.
-https://sjocurtis.github.io/191work/HW-4
+https://sjocurtis.github.io/191work/HW-4  
