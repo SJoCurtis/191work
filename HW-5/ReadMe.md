@@ -5,4 +5,4 @@ This week was really hard, and I had no idea what I was doing. I still need to p
 - videos. Lots of videos. I watched several Youtube videos on algorithmic or generative art. I also watched a fe vimeo videos for p5.js
 - Other peoples sketch.js, I have such a hard time making anything work without reference, I really need to work on that. I try and alter others code to my own liking and aesthetic but its a personal goal to create something entirely on my own without reference.
 
-Below is a ![Screenshot of my work](ScreenShot)
+Below is a screenshot![Screenshot of my work](ScreenShot.png)
