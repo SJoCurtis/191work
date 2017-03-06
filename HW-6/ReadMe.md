@@ -4,3 +4,4 @@ I was excited after this last weeks lessons. I felt very inspired. Thus I went h
 ## What Helped
 Youtube. Youtube was my best friend for this assignment.
 ### Link
+https://sjocurtis.github.io/191work/HW-6/empty-example
