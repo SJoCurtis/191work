@@ -39,8 +39,8 @@ var d = dist(windowWidth/2, windowHeight/2, mouseX, mouseY);
 //Fractal Tree Visuals
 angle = slider.value();
 stroke(255);
-translate(400, height);
-branch(150);
+translate(450, height);
+branch(200);
 
 }
 //New function for the tree logistics
@@ -50,11 +50,11 @@ function branch(len) {
   if (len > 4) {
     push();
     rotate(angle);
-    branch(len * 0.67);
+    branch(len * 0.69);
     pop();
     push();
     rotate(-angle);
-    branch(len * 0.67);
+    branch(len * 0.69);
     pop();
   }
 }
