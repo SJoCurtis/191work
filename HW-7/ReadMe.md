@@ -1,4 +1,4 @@
-###Report For Homework Seven: Functions
+##Report For Homework Seven: Functions
 ## Jo Curtis
 I've enjoyed learning about functions. Now that we have functions sort of down, it will make creating dynamic pieces a lot easier. functions are going to prove to make coding projects a lot easier. They make everything more modular and also a lot more reusable. Of course functions can be tricky, but so can everything code related. Ultimatly, functions are really helpful though, and essential.
 ## What I learned
@@ -10,4 +10,4 @@ I've enjoyed learning about functions. Now that we have functions sort of down, 
 
 https://sjocurtis.github.io/191work/HW-5/empty-example
 
-![Image of my some of the results after this ran for awhile](Screen Shot 2017-03-15 at 3.09.18 PM)
+![Image of my some of the results after this ran for awhile](ScreenShot1)
