@@ -1,7 +1,7 @@
 var cube = [];
 
 function setup() {
-createCanvas(800, 800);
+createCanvas(windowWidth, windowHeight);
 for (var c = 0; c < 500; c++){
 cube[c] = new Cube();
   }

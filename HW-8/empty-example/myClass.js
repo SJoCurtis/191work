@@ -1,7 +1,7 @@
 function Cube(){
-  this.x = random(0, 800);
-  this.y = random(0, 800);
-  this.size = random(1, 90);
+  this.x = random(0, windowWidth);
+  this.y = random(0, windowHeight);
+  this.size = random(0, 100);
   this.clr1 = random(169, 242);
   this.clr2 = random(169, 225);
   this.clr3 = random(186, 169);
@@ -14,8 +14,8 @@ function Cube(){
     rect(this.x, this.y, this.size, this.size);
     fill(0);
     rect(this.x, this.y, this.size * 1, this.size * 0.50);
-    fill(128);
-    ellipse(this.x, this.y, this.size * 100, this.size * 0.3)
+    fill(10);
+    ellipse(this.x, this.y, this.size * 0.6, this.size * 5)
     pop();
   };
 
