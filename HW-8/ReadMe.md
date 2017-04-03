@@ -13,5 +13,10 @@ Time management as per usual. Not devoting enough time to do what I really had i
 # Link
 https://sjocurtis.github.io/191work/HW-8/empty-example
 
-# Screenshot
+# Screenshots
 I liked the process I went through of indecisiveness, so I screenshot different idea I liked.
+![First](screenshot1)
+![Second](screenshot2)
+![Third](screenshot3)
+![Fourth](screenshot4)
+![Fifth](screenshot5)
