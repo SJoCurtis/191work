@@ -1,4 +1,5 @@
-#Report For Homework eight: Basic classes and arrays.
+# Report For Homework eight: Basic classes and arrays.
+
 ##Jo Curtis
 To be honest, I really liked this assignment. I created several super rad looking sketches.
 It took a bit to get it how I wanted it exactly but overall I thought it was a success.
