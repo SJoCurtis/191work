@@ -15,8 +15,8 @@ https://sjocurtis.github.io/191work/HW-8/empty-example
 
 # Screenshots
 I liked the process I went through of indecisiveness, so I screenshot different idea I liked.
-![First](screenshot1)
-![Second](screenshot2)
-![Third](screenshot3)
-![Fourth](screenshot4)
-![Fifth](screenshot5)
+![First](screenshot1.png)
+![Second](screenshot2.png)
+![Third](screenshot3.png)
+![Fourth](screenshot4.png)
+![Fifth](screenshot5.png)
