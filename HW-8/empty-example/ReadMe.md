@@ -9,3 +9,4 @@ The Youtube video definitely helped but the thing that helped the most was the w
 I liked being able to talk to my peers about the code and easily get advice from them. Working alongside other person made it a lot easier I think.
 ## What I struggled with
 Time management as per usual. Not devoting enough time to do what I really had in mind to begin with.
+https://sjocurtis.github.io/191work/HW-8/empty-example 
