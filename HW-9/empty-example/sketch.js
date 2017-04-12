@@ -3,7 +3,7 @@ var count;
 var bubble = [];
 
 function setup() {
-  createCanvas(800, 400);
+  createCanvas(800, 600);
   noStroke();
   var wideCount = width / unit;
   var highCount = height / unit;
