@@ -15,7 +15,7 @@ function Cube(){
     fill(0);
     rect(this.x, this.y, this.size * 1, this.size * 0.50);
     fill(10);
-    ellipse(this.x, this.y, this.size * 0.6, this.size * 5)
+    ellipse(this.x, this.y, this.size * 5, this.size * 10)
     pop();
   };
 
