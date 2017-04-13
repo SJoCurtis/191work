@@ -2,7 +2,7 @@
 
 ## Jo Curtis
 
-This assign,ent was very confusing for me perosnally and I tried that is about it, hopefully it is not entirely terrible.
+This assignment was very confusing for me personally and I tried that is about it, hopefully it is not entirely terrible.
 
 ## What Helped
 
@@ -12,6 +12,6 @@ Youtube videos definelty and the stuff we covered in class, examples and stuff.
 
 Everything.
 
-#Link
+##Link
 
 https://sjocurtis.github.io/191work/HW-9/empty-example
