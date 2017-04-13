@@ -12,6 +12,5 @@ Youtube videos definelty and the stuff we covered in class, examples and stuff.
 
 Everything.
 
-##Link
 
 https://sjocurtis.github.io/191work/HW-9/empty-example
