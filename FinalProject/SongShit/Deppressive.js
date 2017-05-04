@@ -5,6 +5,7 @@ var amp;
 var button;
 
 var section = 0;
+var sectionLengths = [51357, 26369, 24823]
 
 var volhistory = [];
 
@@ -22,6 +23,7 @@ function setup() {
   song.play();
   amp = new p5.Amplitude();
   amp.setInput(song);
+  startTimer(sectionLengths[0]);
 }
 
 function draw() {
@@ -163,4 +165,20 @@ function toggleSong() {
   } else {
     song.play();
   }
+}
+
+var sectionIdx = 1;
+function startTimer(time) {
+  setTimeout(
+    function() {
+      if (section == 0) {
+        section = 1;
+      } else {
+        section = 0;
+      }
+
+      startTimer(sectionLengths[sectionIdx]);
+      sectionIdx++;
+
+    }, time);
 }
