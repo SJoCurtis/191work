@@ -10,7 +10,7 @@ var sectionLengths = [51357, 26369, 24823]
 var volhistory = [];
 
 function preload() {
-  song = loadSound('./resources/FuckYourself.mp3');
+  song = loadSound('./Resources/FuckYourself.mp3');
 }
 
 function setup() {
