@@ -16,7 +16,7 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   background(0);
   t = 0;
-
+//Button Fuction to stop the song or start it
   button = createButton('Play/Pause');
   button.mousePressed(toggleSong);
   song.play();
@@ -30,8 +30,6 @@ function draw() {
   var vol = amp.getLevel();
   // console.log(vol);
   volhistory.push(vol);
-
-
 
   if (section === 0) {
     background(0, 0, 0, 15);
@@ -52,8 +50,8 @@ function draw() {
 
     t += 1;
 
-    if (frameCount % 900 == 0) {
-      background(0);
+    if (frameCount % 800 == 0) {
+      background(145, 187, 255);
     }
     stroke(0, 51, 102);
     noFill();
@@ -69,8 +67,7 @@ function draw() {
     endShape(CLOSE);
     t += 1;
     pop();
-
-
+//Visulizer
     push();
     blendMode(LIGHTEST);
     stroke(100, 157, 206);
@@ -89,6 +86,7 @@ function draw() {
     endShape();
     pop();
   } else {
+//Perlin
     push();
     angleMode(RADIANS);
     stroke(242, 242, 242);
@@ -106,10 +104,11 @@ function draw() {
 
     t += 1;
 
-    if (frameCount % 900 == 0) {
+    if (frameCount % 100 == 0) {
       background(255, 153, 51);
     }
-    background(0, 0, 0, 15);
+// Perlin
+    background(0, 15, 0, 15);
     stroke(128, 0, 0);
     noFill();
     translate(width / 14, height / 14);
@@ -126,8 +125,8 @@ function draw() {
     t += 1;
     pop();
 
-
     push();
+//Visulizer
     blendMode(LIGHTEST);
     stroke(255, 133, 51);
     strokeWeight(6);
@@ -144,13 +143,8 @@ function draw() {
     }
     endShape();
 
-
-
     pop();
   }
-
-
-
 
   if (volhistory.length > 360) {
     volhistory.splice(0, 1);
@@ -165,7 +159,7 @@ function toggleSong() {
     song.play();
   }
 }
-
+//Timer for the switch of sections
 var sectionIdx = 1;
 function startTimer(time) {
   setTimeout(
