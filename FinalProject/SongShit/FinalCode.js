@@ -1,6 +1,6 @@
 var t;
 
-var so;
+var song;
 var button;
 
 var section = 0;
