@@ -107,7 +107,7 @@ function draw() {
     if (frameCount % 100 == 0) {
       background(255, 153, 51);
     }
-// Perlin
+// Perlins
     background(0, 0, 0, 15);
     stroke(128, 0, 0);
     noFill();
