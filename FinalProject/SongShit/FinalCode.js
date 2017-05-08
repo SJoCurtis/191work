@@ -51,7 +51,7 @@ function draw() {
     t += 1;
 
     if (frameCount % 800 == 0) {
-      background(145, 187, 255);
+      background(0);
     }
     stroke(0, 51, 102);
     noFill();
@@ -108,7 +108,7 @@ function draw() {
       background(255, 153, 51);
     }
 // Perlin
-    background(0, 15, 0, 15);
+    background(0, 0, 0, 15);
     stroke(128, 0, 0);
     noFill();
     translate(width / 14, height / 14);
